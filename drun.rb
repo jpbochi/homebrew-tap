@@ -4,9 +4,9 @@
 class Drun < Formula
   desc "A docker run that automatically mounts your current directory"
   homepage "https://github.com/jpbochi/drun"
-  url "https://github.com/jpbochi/drun/archive/v0.4.1.tar.gz"
-  version "0.4.1"
-  sha256 "275a3e7602ab99afe5b2b83319d88662bb8e6d2b5cf4a335ec883ddf279541f7"
+  url "https://github.com/jpbochi/drun/archive/v0.4.2.tar.gz"
+  version "0.4.2"
+  sha256 "8032a8e0c7cf96048f04123283d3c3f5e1fc65f2a1088031b2a427f78878c3df"
   # to get new sha256, do `wget --no-verbose -O - https://... | shasum -a 256`
 
   def install
