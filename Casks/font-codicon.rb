@@ -1,4 +1,4 @@
-cask "font-codicons" do
+cask "font-codicon" do
   name "VS Code Codicons Font"
   homepage "https://github.com/microsoft/vscode-codicons"
   version "0.0.31"
