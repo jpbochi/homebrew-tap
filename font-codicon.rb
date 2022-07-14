@@ -1,5 +1,5 @@
-cask "font-codicons" do
-  name "VS Code Codicons Font"
+class Codicons < Formula
+  desc "VS Code Codicons Font"
   homepage "https://github.com/microsoft/vscode-codicons"
   version "0.0.31"
 
