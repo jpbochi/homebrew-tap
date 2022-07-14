@@ -7,7 +7,7 @@ cask "font-codicon" do
   sha256 "157dbef05bd3ef2c0b8cab4abeddea1eef43cde412881b6046ac00193446c988"
   # to get new sha256, do `wget --no-verbose -O - https://... | shasum -a 256`
 
-  font "dist/codicon.ttf"
+  font "vscode-codicons-#{version}/dist/codicon.ttf"
 
 #   test do
 #     # bash
